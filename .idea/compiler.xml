@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="ie.stu.wheeliebackflipper.main" target="1.8" />
+      <module name="ie.stu.wheeliebackflipper.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

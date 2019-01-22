@@ -1,0 +1,14 @@
+{
+  "platform": "windows64",
+  "jdk": "C:\\Program Files\\Amazon Corretto\\jdk1.8.0_192\\",
+  "executable": "wheeliebackflipper",
+  "classpath": [
+    "wheeliebackflipper-fat-1.0-SNAPSHOT.jar"
+  ],
+  "mainclass": "app.sonderful.wheeliebackflipper.Launcher",
+  "vmargs": [
+    "Xmx1G"
+  ],
+  "minimizejre": "soft",
+  "output": "out-win"
+}
